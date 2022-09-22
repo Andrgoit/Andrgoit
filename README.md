@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">Skils:</h2>
+<h2 align="left">Skills:</h2>
 
 ###
 
