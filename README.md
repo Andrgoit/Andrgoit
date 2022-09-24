@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋 . I'm Andrey, beginner frontend developer.</h1>
 
+![](https://komarev.com/ghpvc/?username=Andrgoit)
+
 ###
 
 <h2 align="left">Connect with me:</h2>
