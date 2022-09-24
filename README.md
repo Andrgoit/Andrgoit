@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋 . I'm Andrey, beginner frontend developer.</h1>
 
-![](https://komarev.com/ghpvc/?username=Andrgoit)
+
 
 ###
 
@@ -35,6 +35,7 @@
 
 ###
 
+![](https://komarev.com/ghpvc/?username=Andrgoit)
 
 <!--
 **Andrgoit/Andrgoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
