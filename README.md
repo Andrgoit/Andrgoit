@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TS, Next.js**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1PccG3LG-ujLKIScMrXgvTMTNB6LuWZxo/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1P7pGLSs8a6kNDcyW7hPAY6NOe3A4G31I/view?usp=sharing)
 
 <h3 align="left"> 📫 How to reach me:</h3>
 
